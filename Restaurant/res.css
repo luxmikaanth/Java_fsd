@@ -1,0 +1,57 @@
+#image
+{
+    width: 99%;
+	height: 810px;
+	position: absolute;
+	top: 0;
+}
+.blacktop{
+	height: 60px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	font-weight:bold ;
+	min-width: 160px;
+	
+}
+.view{
+	
+	font-weight: bold;
+	position: fixed;
+	margin-left: 1130px;
+	margin-top:10px;
+	z-index: 2;
+	font-size: 150%;
+	min-width: 160px;
+}
+.cen
+{
+	position: fixed;
+	margin-top:200px;
+	margin-left:400px;
+	font-size:500%;
+	color:beige;
+}
+.wd{
+	width: 370px;
+	height: 600px;
+	background-color: black;
+	opacity: 70%;
+	padding: 55px;
+	margin-left: 10px;
+
+}
+.wd h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	font: weight 100px;;
+
+}
+.wd h3{
+	text-align: justify;
+	color: darkgray;
+	font-weight: normal;
+	margin: 40px auto;
+
+}
